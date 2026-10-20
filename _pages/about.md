@@ -16,7 +16,7 @@ My research interests primarily include **urban spatial perception and behavior,
 
 I am particularly interested in the interactions between the built environment, individual perceptions and behaviors, and socio-spatial relationships, aiming to provide scientific evidence for human-centered urban planning, urban regeneration, and public space optimization.
 
-My research integrates interdisciplinary approaches, including **GIS, GeoAI, virtual reality (VR), machine learning, and spatial network analysis**.
+My research integrates interdisciplinary approaches, including **GIS, GeoAI, virtual reality (VR) and machine learning**.
 
 ## Future Research & Collaboration
 
