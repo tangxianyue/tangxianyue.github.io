@@ -22,16 +22,18 @@ repository: "tangxianyue/tangxianyue.github.io"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
+
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar: "profile.png"
+  name: "Xianyue Tang"
+  bio: "PhD Student in Urban Studies"
+  location: "Shenzhen, China"
+  employer: "The Chinese University of Hong Kong, Shenzhen"
+  email: "226030310@link.cuhk.edu.cn"
+  googlescholar: "https://scholar.google.com/citations?user=F4Nb5ZAAAAAJ&hl=en"
+  orcid: "0009-0002-0185-3155"
+  github: "tangxianyue"
+
 
   # Academic websites
   academia         : # URL
