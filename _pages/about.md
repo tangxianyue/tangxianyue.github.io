@@ -20,7 +20,7 @@ My research integrates interdisciplinary approaches, including **GIS, GeoAI, vir
 
 ## Future Research & Collaboration
 
-I aim to further explore the dynamic relationships between urban spatial perception and pedestrian mobility, integrating GeoAI, behavioral experiments, and agent-based modeling (ABM).
+I aim to further explore the dynamic relationships between urban spatial perception and pedestrian mobility.
 
 I welcome **interdisciplinary academic exchanges and research collaborations** with scholars from diverse fields.
 
